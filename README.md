@@ -23,5 +23,6 @@
 # 2017-05-25 01:58:08.430 12139 ERROR root [-] Failed to start the admin server
 # 2017-05-25 01:58:08.430 12139 ERROR root error: [Errno 98] Address already in use
 
+# 以上信息在log文件keystone-all.log里面有的，或者直接命令行输入keystone-all
 # 现在猜想是不是端口被占用了，但是我电脑没电了。。。
 
